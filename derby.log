@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Wed Sep 15 13:25:01 ICT 2021:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.8.3.0 - (1405108): instance a816c00e-017b-e821-4b7d-000005181eb8 
+on database directory D:\SupermarketManagementSystem\data\domainds  with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@c387f44 
+Loaded from file:/D:/SupermarketManagementSystem/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=13.0.2+8
+user.dir=D:\SupermarketManagementSystem
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
